@@ -1,2 +1,2 @@
 # SHT
-simple html template
+## simple html template repo
